@@ -99,7 +99,7 @@ With this data, I created a line chart to display the percent of various outcome
 
 
 ### Challenges and Difficulties Encountered
-My primary difficulty with this challenge was finding the number of outcomes based on goals. Because of how specific the data needed to be, I had to ensure that the data was limited to plays only. I also had to ensure that the upper and lower bounds were set correctly in order to ensure the charted data would be accurate. Additionally, charting the data was a bit difficult because i had to select certain columns to ensure that the chart would not be cluttered with extraneous information.
+My primary difficulty with this challenge was finding the number of outcomes based on goals. Because of how specific the data needed to be, I had to ensure that the data was limited to plays only. I also had to ensure that the upper and lower bounds were set correctly in order to ensure the charted data would be accurate. Additionally, charting the data was a bit difficult because I had to select certain columns to ensure that the chart would not be cluttered with extraneous information.
 
 ## Results
 
